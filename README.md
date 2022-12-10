@@ -1,1 +1,2 @@
 # Student-Record-System-In-C-
+Talking about the features of this Simple system, the user can perform the CRUD operations to it. Like, add student details by entering his/her name, roll number, parents name, class, school name, etc. The user can also view all the available student records. Besides, the user can edit information as well as remove a student’s whole data. The system creates an external file to store the user’s data permanently. This system is developed using C Programming Language and different variables, strings have been used for the development of it.
